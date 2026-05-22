@@ -54,3 +54,15 @@ Thumbs.db
 
 # Editor folders
 .vscode/
+
+# Aula 01 support files (do not commit)
+aula01/sistema_incompleto.c
+aula01/sistema_guiado.c
+
+# Aula 02 support files (do not commit)
+aula02/sistema_incompleto.c
+aula02/sistema_guiado.c
+
+# Aula 03 support files (do not commit)
+aula03/sistema_incompleto.c
+aula03/sistema_guiado.c
