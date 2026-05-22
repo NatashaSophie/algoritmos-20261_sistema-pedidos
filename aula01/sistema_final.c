@@ -1,4 +1,5 @@
 /*
+Aula 01: Fundamentos, condicionais e repetição
 Aula 01 - Sistema de pedidos (versao final)
 Objetivo da aula: introduzir a base do pensamento computacional em C,
 mostrando entrada, processamento e saida com regras de negocio.
