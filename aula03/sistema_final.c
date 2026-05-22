@@ -1,4 +1,5 @@
 /*
+Aula 03: Structs, strings e ponteiros
 Aula 03 - Sistema de pedidos (versao final)
 Compilar (Linux/Mac): gcc sistema_final.c -o sistema_final
 Executar (Linux/Mac): ./sistema_final
