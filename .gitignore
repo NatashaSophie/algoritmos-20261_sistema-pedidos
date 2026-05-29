@@ -67,3 +67,7 @@ aula02/sistema_guiado.c
 # Aula 03 support files (do not commit)
 aula03/sistema_incompleto.c
 aula03/sistema_guiado.c
+
+# Aula 04 support files (do not commit)
+aula04/sistema_incompleto.c
+aula04/sistema_guiado.c
